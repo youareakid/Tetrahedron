@@ -4,8 +4,6 @@ public class TetrahedronSolution {
 
         double pA = 1.0;
         double pB = 0.0;
-        double pC = 0.0;
-        double pD = 0.0;
 
         for(int i = 0; i < 10; i++){
             pA = cal(pA);
